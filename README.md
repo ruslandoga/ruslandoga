@@ -1,4 +1,4 @@
-👋
+![2022-06-05 20 54 17](https://user-images.githubusercontent.com/67764432/172063781-48b2f747-b689-472a-a1c0-558b2f5de32e.jpg)
 
 <!--
 **ruslandoga/ruslandoga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

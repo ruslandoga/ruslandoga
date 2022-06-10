@@ -1,5 +1,3 @@
 [<sup>stats.copycat.fun</sup>](https://stats.copycat.fun)
 
-<img src="https://stats.copycat.fun/barchart.svg?w=700&h=300" height="300" width="700">
-
-<img src="chart.svg" width="100%"/>
+<img src="https://stats.copycat.fun/barchart.svg?h=50&w=720" style="width:100%;height:50px;background-color:red;display:block;">
